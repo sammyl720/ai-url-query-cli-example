@@ -1,0 +1,22 @@
+{
+  "name": "ai-url-query-cli-example",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "tsx ./index.ts"
+  },
+  "author": "Shmuel Leider",
+  "license": "MIT",
+  "description": "An example cli app using @sammyl/ai-url-query",
+  "dependencies": {
+    "@sammyl/ai-url-query": "^1.2.0",
+    "dotenv": "^16.4.7",
+    "openai": "^4.82.0",
+    "readline": "^1.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
