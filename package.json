@@ -9,9 +9,8 @@
   "license": "MIT",
   "description": "An example cli app using @sammyl/ai-url-query",
   "dependencies": {
-    "@sammyl/ai-url-query": "^1.2.0",
+    "@sammyl/ai-url-query": "^1.3.1",
     "dotenv": "^16.4.7",
-    "openai": "^4.82.0",
     "readline": "^1.3.0"
   },
   "devDependencies": {
